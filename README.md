@@ -1,30 +1,60 @@
-🤖 Interactive Virtual Robot
+Interactive Virtual Robot
 
-An interactive virtual robot created using HTML, CSS and JavaScript.
+An interactive virtual robot developed using HTML, CSS and JavaScript.
 
-This project allows users to interact with a virtual robot through animations, buttons, voice input, voice output and a smart question-answer chatbot.
+The project provides an interactive robot interface with animations, voice interaction and a smart question-answer chatbot.
 
-✨ Features
+Features
 
-- 🤖 Interactive virtual robot
-- 👋 Wave animation
-- ❤️ Happy animation
-- 🎵 Dance animation
-- 🤔 Think animation
-- 🔊 Voice output
-- 🎤 Voice input
-- 💬 Interactive chat box
-- 🧠 Answers basic questions about AI, Data Science, Machine Learning, Python, Java, Big Data, SQL, HTML, CSS and JavaScript
-- 📱 Responsive design for different screen sizes
+- Interactive virtual robot
+- Robot antenna
+- Animated robot face
+- Robot arms and legs
+- Wave animation
+- Happy animation
+- Dance animation
+- Think animation
+- Voice output
+- Voice input
+- Interactive chat box
+- Smart question-answer system
+- Answers basic questions related to AI, Data Science, Machine Learning, Python, Java, Big Data, SQL, HTML, CSS and JavaScript
+- Responsive design
 
-🛠️ Technologies Used
+Technologies Used
 
 - HTML5
 - CSS3
 - JavaScript
 - Web Speech API
 
-📂 Project Structure
+Chatbot Capabilities
+
+Robo can respond to questions such as:
+
+- What is Data Science?
+- What is Artificial Intelligence?
+- What is Machine Learning?
+- What is Deep Learning?
+- What is Python?
+- What is Java?
+- What is Big Data?
+- What is SQL?
+- What is HTML?
+- What is CSS?
+- What is JavaScript?
+
+Robo can also respond to greetings and commands such as Hello, Thank you, Bye, Dance, Wave and Think.
+
+How to Run
+
+1. Download or clone this repository.
+2. Open the project folder in VS Code.
+3. Open "index.html".
+4. Run the project using Live Server.
+5. Interact with Robo using the buttons, chat box and voice features.
+
+Project Structure
 
 Interactive-Virtual-Robot/
 │
@@ -33,34 +63,11 @@ Interactive-Virtual-Robot/
 ├── script.js
 └── README.md
 
-🚀 How to Run
+Purpose
 
-1. Download or clone this repository.
-2. Open the project folder in VS Code.
-3. Open "index.html".
-4. Run it using Live Server.
-5. Interact with the robot using the buttons and chat box.
+This project was developed to practice web development, JavaScript interaction, CSS animations, voice technologies and basic chatbot logic.
 
-💬 Example Questions
-
-You can ask Robo questions such as:
-
-- What is Data Science?
-- What is Artificial Intelligence?
-- What is Machine Learning?
-- What is Deep Learning?
-- What is Python?
-- What is Big Data?
-- What is SQL?
-- What is HTML?
-- What is CSS?
-- What is JavaScript?
-
-🎯 Purpose
-
-This project was developed as an interactive web-based project to demonstrate basic web development, JavaScript interaction, animation and voice technologies.
-
-👩‍💻 Developed By
+Developed By
 
 Ravalisha S.
 
