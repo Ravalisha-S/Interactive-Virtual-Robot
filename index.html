@@ -1,0 +1,87 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+
+    <title>Interactive Virtual Robot</title>
+
+    <link rel="stylesheet" href="style.css">
+</head>
+
+<body>
+    <h1>🤖 Interactive Virtual Robot</h1>
+    <div class="robot" id="robot">
+        <div class="antenna">
+            <div class="antenna-light"></div>
+        </div>
+        <div class="face">
+
+            <div class="eye left-eye"></div>
+            <div class="eye right-eye"></div>
+
+            <div class="mouth"></div>
+        </div>
+        <div class="robot-body">
+
+            <div class="arm left-arm"></div>
+
+            <div class="body">
+
+                <div class="heart">❤️</div>
+
+            </div>
+
+            <div class="arm right-arm"></div>
+
+        </div>
+                <div class="legs">
+
+            <div class="leg left-leg"></div>
+            <div class="leg right-leg"></div>
+
+        </div>
+
+    </div>
+     <div class="buttons">
+
+        <button onclick="wave()">👋 Wave</button>
+
+        <button onclick="happy()">❤️ Happy</button>
+
+        <button onclick="dance()">🎵 Dance</button>
+
+        <button onclick="think()">❓ Think</button>
+
+        <button onclick="speak('Hello! How can I help you?')">
+            🔊 Voice
+        </button>
+
+        <button onclick="batteryLow()">🔋 Battery</button>
+
+    </div>
+    <div class="chat-box">
+
+        <h2>💬 Talk with Robo</h2>
+
+        <div id="chat-display">
+            <p>🤖 Robo: Hello! How can I help you?</p>
+        </div>
+
+        <input
+            type="text"
+            id="user-input"
+            placeholder="Type your message..."
+        >
+
+        <button onclick="sendMessage()">Send 🚀</button>
+
+        <button onclick="startVoice()">🎤 Voice</button>
+
+    </div>
+
+
+    <script src="script.js"></script>
+
+</body>
+</html>
