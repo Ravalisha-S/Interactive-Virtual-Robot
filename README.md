@@ -67,6 +67,17 @@ Purpose
 
 This project was developed to practice web development, JavaScript interaction, CSS animations, voice technologies and basic chatbot logic.
 
+Project Screenshots
+
+Home Screen
+![Robot Home](screenshots/robot-home.png)
+
+Robot Interaction
+![Robot Interaction](screenshots/robot-animation.png)
+
+Chat Interface
+![Robot Chat](screenshots/robot-chat.png)
+
 Developed By
 
 Ravalisha S.
